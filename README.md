@@ -20,6 +20,8 @@ Examples of use:
 ```bash
 scaffold create node
 scaffold create node --variant mvc
+
+scaffold create <template-name> <project-name>
 ```
 
 ## License
